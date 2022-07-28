@@ -1,9 +1,9 @@
-.user_component {
+.user-component {
   display: flex;
   justify-content: space-between;
 }
 
-.user_component,
+.user-component,
 .user-component__column:first-child {
   display: flex;
   align-items: center;
@@ -21,7 +21,7 @@
   font-size: 22px;
 }
 
-.user_component__subtitle {
+.user-component__subtitle {
   margin-top: 8px;
   color: rgba(0, 0, 0, 0.5);
   font-size: 17px;
