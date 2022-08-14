@@ -10,3 +10,10 @@
   font-size: 13px;
   font-weight: 600;
 }
+
+.badge--dot {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+}

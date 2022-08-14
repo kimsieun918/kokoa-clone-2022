@@ -14,3 +14,13 @@
 .screen-header__icons span {
   margin-left: 20px;
 }
+
+.screen-header__icons span:last-child {
+  position: relative;
+}
+
+.badge--dot-updates {
+  position: absolute;
+  left: 3px;
+  top: -3px;
+}
