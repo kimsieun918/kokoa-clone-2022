@@ -6,7 +6,6 @@
   align-items: center;
   justify-content: space-between;
 }
-
 .settings__setting i {
   margin-right: 20px;
   font-size: 22px;
@@ -15,4 +14,9 @@
 
 .settings__setting-column:last-child {
   opacity: 0.5;
+}
+
+.settings__setting:hover {
+  box-shadow: 2px 2px 5px var(--yellow);
+  border-radius: 10px;
 }

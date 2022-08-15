@@ -38,3 +38,13 @@
   font-size: 32px;
   color: white;
 }
+
+h6 i {
+  color: tomato;
+  opacity: 0.8;
+  margin-left: 5px;
+}
+
+.more-suggestions h4 {
+  font-weight: 600;
+}
